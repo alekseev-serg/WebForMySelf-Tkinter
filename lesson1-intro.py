@@ -6,5 +6,5 @@ root.title('My first tkinter app')
 root.iconbitmap('py.ico')
 root.resizable(False, False)
 # root.config(background='white')
-root['bg'] = 'yellow'
+# root['bg'] = 'yellow'
 root.mainloop()
